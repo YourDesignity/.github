@@ -122,6 +122,7 @@ Meet the minds behind DESIGNITY. We are a team of passionate innovators, designe
 *   🚀 **[Abhinav](https://github.com/username)** — Co-founder
 *   🤝 **[Abhiram](https://www.linkedin.com/in/abhiram-krishna-k-p-6039b0265/)** — HR
 *   💼 **[Devan](https://github.com/username)** — Manager
+*   
 *(Note: Click on the names to visit our Linkedin profiles)*
 
 ---
