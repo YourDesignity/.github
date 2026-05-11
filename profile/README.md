@@ -110,6 +110,11 @@ We build on modern, robust, and industry-standard technologies to ensure fast an
 
 ## 👥 Our Team
 
+<!-- TEAM COVER IMAGE PLACEHOLDER -->
+<p align="center">
+  <img width="100%" src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=2850&auto=format&fit=crop" alt="Designity Team Cover Image"/>
+</p>
+
 Meet the minds behind DESIGNITY. We are a team of passionate innovators, designers, and engineers dedicated to building solutions that create impact.
 
 *   👑 **[Nithin KT](https://github.com/username)** — Founder and CEO
@@ -136,7 +141,7 @@ We are open for:
 
 Let’s build the future together. We are ready to deploy our team to your workflows immediately.
 
-*   📧 **Email:** [reachyourdesignity@gmail.com](mailto:reachyourdesignity@gmail.com) | [nithinktoffical@gmail.com](mailto:nithinktoffical@gmail.com)
+*   📧 **Email:**[reachyourdesignity@gmail.com](mailto:reachyourdesignity@gmail.com) |[nithinktoffical@gmail.com](mailto:nithinktoffical@gmail.com)
 *   📞 **Phone:** +91 9895867769 | +91 9207354765
 *   📍 **Location:** Sreekrishnapuram, Palakkad, Kerala, India.
 
