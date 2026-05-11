@@ -123,7 +123,7 @@ Meet the minds behind DESIGNITY. We are a team of passionate innovators, designe
 *   💼 **[Devan](https://github.com/username)** — Manager
 *   🤝 **[Abhiram](https://github.com/username)** — HR
 
-*(Note: Click on the names to visit our GitHub profiles)*
+*(Note: Click on the names to visit our Linkedin profiles)*
 
 ---
 
