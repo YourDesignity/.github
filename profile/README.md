@@ -62,7 +62,7 @@ We provide an end-to-end suite of software and digital transformation services:
 ## 🧬 Our R&D DNA: Destiny Autonomous AI
 
 <a href="#">
-  <img width="100%" src="https://via.placeholder.com/1200x200/111111/e8e8e8?text=Destiny+Autonomous+AI+-+Research+%26+Development+Labs" alt="Destiny R&D Labs"/>
+  <img width="100%" src="https://github.com/Our-Destiny-R-D-Labs/.github/raw/main/profile/assets/ORDRLabsWall.png" alt="Destiny R&D Labs"/>
 </a>
 
 > *"From 14 Years of R&D to Precision Data Solutions. We don't just label data. We understand it."*
