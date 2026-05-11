@@ -108,6 +108,20 @@ We build on modern, robust, and industry-standard technologies to ensure fast an
 
 ---
 
+## 👥 Our Team
+
+Meet the minds behind DESIGNITY. We are a team of passionate innovators, designers, and engineers dedicated to building solutions that create impact.
+
+*   👑 **[Nithin KT](https://github.com/username)** — Founder and CEO
+*   🎯 **[Hariprasad](https://github.com/username)** — Director
+*   🚀 **[Abhinav](https://github.com/username)** — Co-founder
+*   💼 **[Devan](https://github.com/username)** — Manager
+*   🤝 **[Abhiram](https://github.com/username)** — HR
+
+*(Note: Click on the names to visit our GitHub profiles)*
+
+---
+
 ## 🤝 Work With Us
 
 We are open for:
