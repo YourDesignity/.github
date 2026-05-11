@@ -144,9 +144,9 @@ To deliver highly scalable Software, Web, Mobile, ERP/SRM, and AI solutions, we 
 
 Meet the minds behind DESIGNITY. We are a team of passionate innovators, designers, and engineers dedicated to building solutions that create impact.
 
-*   👑 **[Nithin KT](https://github.com/username)** — Founder and CEO
-*   🎯 **[Hariprasad](https://github.com/username)** — Director
-*   🚀 **[Abhinav](https://github.com/username)** — Co-founder
+*   👑 **[Nithin KT](https://www.linkedin.com/in/nithin-kt-825b26266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)** — Founder and CEO
+*   🎯 **[Hariprasad](https://www.linkedin.com/in/hari-odrdl/)** — Director
+*   🚀 **[Abhinav](https://www.linkedin.com/in/abhinav-a-r-724933264/)** — Co-founder
 *   🤝 **[Abhiram](https://www.linkedin.com/in/abhiram-krishna-k-p-6039b0265/)** — HR
 *   💼 **[Devan](https://github.com/username)** — Manager
 *   
