@@ -112,7 +112,7 @@ We build on modern, robust, and industry-standard technologies to ensure fast an
 
 <!-- TEAM COVER IMAGE PLACEHOLDER -->
 <p align="center">
-  <img width="100%" src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=2850&auto=format&fit=crop" alt="Designity Team Cover Image"/>
+  <img width="100%" src="https://i.pinimg.com/736x/7e/6f/e3/7e6fe3488b60391e6c9f8b3d7ba382f9.jpg?q=80&w=2850&auto=format&fit=crop" alt="Designity Team Cover Image"/>
 </p>
 
 Meet the minds behind DESIGNITY. We are a team of passionate innovators, designers, and engineers dedicated to building solutions that create impact.
