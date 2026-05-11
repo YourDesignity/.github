@@ -1,6 +1,6 @@
 <!-- BANNER IMAGE PLACEHOLDER -->
 <a href="#about">
-  <img width="100%" src="https://i.pinimg.com/736x/05/8c/ba/058cbae2a3296f78e9e868b34b1a812e.jpg" alt="Designity Banner"/>
+  <img width="100%" src="https://i.pinimg.com/1200x/fc/d8/31/fcd8310354601ee5a6f161324cee0ada.jpg" alt="Designity Banner"/>
 </a>
 
 <p align="center">
