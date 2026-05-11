@@ -120,9 +120,8 @@ Meet the minds behind DESIGNITY. We are a team of passionate innovators, designe
 *   👑 **[Nithin KT](https://github.com/username)** — Founder and CEO
 *   🎯 **[Hariprasad](https://github.com/username)** — Director
 *   🚀 **[Abhinav](https://github.com/username)** — Co-founder
+*   🤝 **[Abhiram](https://www.linkedin.com/in/abhiram-krishna-k-p-6039b0265/)** — HR
 *   💼 **[Devan](https://github.com/username)** — Manager
-*   🤝 **[Abhiram](https://github.com/username)** — HR
-
 *(Note: Click on the names to visit our Linkedin profiles)*
 
 ---
