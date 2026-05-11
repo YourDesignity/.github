@@ -1,6 +1,6 @@
 <!-- BANNER IMAGE PLACEHOLDER -->
 <a href="#about">
-  <img width="100%" src="https://via.placeholder.com/1200x300/0a0a0a/ffffff?text=DESIGNITY+-+Designing+Ideas+With+Dignity" alt="Designity Banner"/>
+  <img width="100%" src="https://github.com/Our-Destiny/.github/raw/main/profile/assets/TheFallenAngelsBG.png" alt="Designity Banner"/>
 </a>
 
 <p align="center">
