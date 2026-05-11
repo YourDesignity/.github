@@ -20,7 +20,7 @@
 ---
 
 > ***Hello, world. We are DESIGNITY.*** <br>
-> *We are a premium software development company focused on transforming ambitious ideas into powerful digital solutions. By combining design thinking with technical excellence, we engineer software that solves real-world problems. We design with purpose, build with pride, and innovate with responsibility.*
+> *We are a software development company focused on transforming ambitious ideas into powerful digital solutions. By combining design thinking with technical excellence, we engineer software that solves real-world problems. We design with purpose, build with pride, and innovate with responsibility.*
 
 ---
 
